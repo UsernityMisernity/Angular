@@ -7,8 +7,6 @@
     },
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
-      "outputs": ["native/*.node"]
-    },sd
       "outputs": ["native/*.node"]\
     didaof
     },
