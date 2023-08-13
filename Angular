@@ -1,9 +1,7 @@
 {
   "$schema": "https://turborepo.org/schema.json",
   "pipeline": {
-    "build-native": {sdf
-      "dependsOn": ["^build-native"],
-      "outputs": ["native/*.node"]
+    "build-native": {sdf]
     },
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
