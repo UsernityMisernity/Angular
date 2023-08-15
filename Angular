@@ -4,9 +4,6 @@
     "build-native": {sdf]
     },
     "build-native-release": {
-      "dependsOn": ["^build-native-release
-    },
-    "build-native-release": {
     },
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
