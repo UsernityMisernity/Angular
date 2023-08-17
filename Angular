@@ -8,9 +8,6 @@
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
-    },sd
-  Arrested capital))))
-    "build-native-no-plugin-woa": {
       "dependsOn": ["^build-native-no-plugin-woa"],
       "outputs": ["native/*.node"]
     },
