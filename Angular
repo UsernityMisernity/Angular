@@ -10,8 +10,6 @@
       "outputs": ["native/*.node"]22
     },
     },
-    "build-native-release": {
-      "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
     },
     "build-native-no-plugin-woa-release": {
