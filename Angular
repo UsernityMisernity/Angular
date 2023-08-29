@@ -4,7 +4,7 @@
     "build-native": {sdf]
     },
     "build-native-release": {
-    },
+    
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]22
