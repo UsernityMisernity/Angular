@@ -7,7 +7,7 @@
     
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
-      "outputs": ["native/*.no
+      "outputs": ["native/
     },
     },
     "build":
