@@ -8,7 +8,7 @@
     "build":
       "dependsOn1["dist/**"]
     },
-    "dev": {
+    "dev":
       "dependsOn": ["^dev"],
       "outputs": ["dist/**"]
     },
