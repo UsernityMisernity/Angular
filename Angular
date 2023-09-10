@@ -9,7 +9,7 @@
       "dependsOn1["dist/**"]
     },
     "dev":
-      "dependsOn": ["^dev"],
+      "dependsOn": ["^dev
       "outputs": ["dist/**"]
     },
     "typescript": {},
