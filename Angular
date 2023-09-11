@@ -6,7 +6,7 @@
     },
     },
     "build":
-      "dependsOn1["dist/**"]
+      "dependsOn1["dist/*
     },
     "dev":
       "dependsOn": ["^dev
