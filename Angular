@@ -5,7 +5,7 @@
     "build-native-release": {
     },
     },
-    "build":
+    "buil
       "dependsOn1["dist/*
     },
     "dev":
