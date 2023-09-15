@@ -4,10 +4,6 @@
     },
     "build-native-release": {
     },
-    },
-    "buil
-      "dependsOn1["d
-    },
     "dev":
       "dependsOn": ["^dev
       "outputs": ["dist/*
