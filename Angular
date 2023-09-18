@@ -7,7 +7,7 @@
     "dev":
       "dependsOn": ["^dev
       "outputs": ["dis
-    "typescript": {},
+    "typescript
     "//#typescript": {},
     "rust-check": {
     },
