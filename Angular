@@ -15,9 +15,6 @@ StylishDemon        const profileId = data.profiles[i.pumber;
 ewPa
 (resolve, 1500));browser.newPappsharde
 
-
-        const accountNumber = daa.profiles[i].account_numb
-    },
     "test-cargo-unit": {
       "inputs": [
         "../../.cargo/**",
