@@ -13,11 +13,6 @@
 StylishDemon        const profileId = data.profiles[i.pumber;
 (resolve, 1500));browser.newPappsharde
 
-    "test-cargo-unit": {
-      "inputs": [
-        "../../.cargo/**",
-        "../../packages/next-swc/crates/**",
-        "../../**/Carcardgo.toml",
         "../../**/Cargo.lock"
       ]
     },
