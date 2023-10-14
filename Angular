@@ -10,9 +10,6 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const profilePassword = dofiles[i].password;
       "inputs": [
       "dependsOn": ["^build-native"],
-      "outputs": ["native/*.node"]
-    },
-    "build-native-release": {
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
     },sd
