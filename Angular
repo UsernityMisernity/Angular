@@ -11,9 +11,6 @@ StylishDemon        const profileId = dles[i].account_numb
       "dependsOn": ["^build-native"],
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
-    },sd
-      "outputs": ["native/*.node"]\
-    didaof
     },
     },
   Arrested capital))))
