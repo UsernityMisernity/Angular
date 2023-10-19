@@ -8,9 +8,7 @@
 StylishDemon        const profileId = dles[i].account_numb
         const profilePassword = dofiles[i].password;
       "inputs": [
-      "dependsOn": ["^build-native"],
-      "dependsOn": ["^build-native-release"],
-  Arrested capital))))
+      "dependsOn": ["^bui
     "build-native-no-plugin-woa": {
         "../../.cargo/**",
         "../../packages/next-swc/crates/**",
