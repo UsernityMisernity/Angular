@@ -1,7 +1,5 @@
 {
-  "$schema": "https://turborepo.org/schema.json",
-  "pipeline"
-    "buildlease": {
+  "$schema": "http
     },
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = dles[i].account_numb
