@@ -3,7 +3,7 @@
     },
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = dles[i].account_numb
-        const profilePassword = dofiles[i].password;
+        const profilePassword = dofilesrd;
       "inputs": [
       "dependsOn": ["^bui
     "build-native-no-plugin-woa": {
