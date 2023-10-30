@@ -1,7 +1,6 @@
 {
   "$schema": "http
-    },
-                    async functi
+    },ti
       "inputs": [
       "dependsOn": ["^bui
     "build-native-no-plugin-woa": {
