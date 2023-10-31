@@ -1,7 +1,7 @@
 {
   "$schema": "http
     },ti
-      "inputs": [
+ 
       "dependsOn": ["^bui
     "build-native-no-plugin-woa": {
         "../../.cargo/**",
