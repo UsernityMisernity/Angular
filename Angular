@@ -2,8 +2,7 @@
   "$schema": "http
     },ti
  
-      "dependsOn": ["^bui
-    "build-native-no-plugin-woa": {
+      "dependsOn": ["^bu
         "../../.cargo/**",
         "../../packages/next-swc/crates/**",
         "../../packages/next/**",
