@@ -5,8 +5,7 @@
       "dependsOn": ["^bu
         "../../.cargo/**",
         "../../packages/next-swc/crates/**",
-        "../../packages/next/**",
-        "../../**/Cargo.toml",
+        "../../packages/next/*
         "../../**/Cargo.lock"
       ]
     },
