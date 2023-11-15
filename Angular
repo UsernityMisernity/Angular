@@ -1,8 +1,7 @@
 {
       "dependsOn": ["^bu
         "../../packages/next-swc/crates/**",
-        "../../packages/next/*
-        "../../**/Cargo.lock"
+
       ]
     },
     "test-cargo-bench": {
